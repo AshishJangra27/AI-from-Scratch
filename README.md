@@ -13,6 +13,8 @@ This repository has codes to run various ML algorithms from scratch
 
 ---
 
+[Model Eval Techniques](https://colab.research.google.com/drive/1sXZnLQ6n1hkGiJjUXA2o2FqWbFoPftog?usp=sharing)
+
 [What are Tensors?](https://colab.research.google.com/drive/16vDgXhrqLO7cSjE3axMKRMqpDuBE3iRK?usp=sharing)
 
 [How to perform Differentiation with PyTorch?](https://colab.research.google.com/drive/1t-njR50DJiia0DZtTlEcI-KiIUVvhafD?usp=sharing)
