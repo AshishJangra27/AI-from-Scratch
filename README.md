@@ -1,4 +1,4 @@
-# Machine-Learning-from-Scratch
+# AI-from-Scratch
 This repository has codes to run various ML algorithms from scratch
 
 [Perceptron from Scratch](https://colab.research.google.com/drive/1vzOLJDm1DFgMuNdc6iF0yI3VNIB0yXNR?usp=sharing)
