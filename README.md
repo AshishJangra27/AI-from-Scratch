@@ -9,7 +9,9 @@ This repository has codes to run various ML algorithms from scratch
 
 [Stochastic vs Batch va MiniBatch Gradeint Decent](https://excalidraw.com/#json=ScqjmImxvwMI6is8S33mK,CKFwLcdFknRUHbqCJ8HqiQ)
 
+[PyTorch NN for Fashion MNIST](https://colab.research.google.com/drive/1HzYSK9II7s4sQBbfgzGa5S6vIGIlJByW?usp=sharing)
 
+---
 
 [What are Tensors?](https://colab.research.google.com/drive/16vDgXhrqLO7cSjE3axMKRMqpDuBE3iRK?usp=sharing)
 
