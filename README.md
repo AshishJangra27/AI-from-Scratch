@@ -31,6 +31,8 @@ This repository has codes to run various ML algorithms from scratch
 
 [How to perform Model Tracking with Weights & Biases?](https://colab.research.google.com/drive/1sJwh-tcPPFAooalg7yhbVlbFZtd3y_ou?usp=sharing)
 
+[Training Challenges IMplementation](https://colab.research.google.com/drive/1WBCJ980PM8pfL9HxsDuWU9BJo01v8min?usp=sharing)
+
 [How to perform Model Tracking with TensorBoard?](https://colab.research.google.com/drive/1HzEOL0ClhyHxJzrnH7v6lHbjYzimbSPQ?usp=sharing)
 
 [End-to-End PyTorch Neural Network Project](#)
